@@ -3,7 +3,6 @@
 class MyController {
     
     public function index() {
-        echo "mycontroller"
         echo "hello world";
         return "index";
     }
